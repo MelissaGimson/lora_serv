@@ -8,6 +8,6 @@ let device = new iot-lorawan.Device({
         meta: {
             model: "simulator",
             desc: "Simulated IOT device using the senzflow(©) sdk",
-            version: 0.13
+            version: 0.14
         }
     });
