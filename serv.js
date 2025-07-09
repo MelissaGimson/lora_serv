@@ -7,7 +7,7 @@ let device = new iot-lorawan.Device({
         certPath: directory + "/cert.pem",
         meta: {
             model: "simulator",
-            desc: "Simulated IOT device using the senzflow(©) sdk9",
+            desc: "Simulated IOT device using the senzflow(©) sdk10",
             version: 0.14.1
         }
     });
